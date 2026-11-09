@@ -1,6 +1,12 @@
 ![](https://raw.githubusercontent.com/lazcool/lazcool/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/lazcool/lazcool/master/profile-summary-card-output/github_dark/3-stats.svg)
 
+## Current project: Mixology (working title)
+
+I'm developing a themed liquid-sorting puzzle game for iOS through COOL UN LTD, trading as Cool Unlimited. The game's public home is [Cool Unlimited's games site](https://coolunlimited.co.uk/games/).
+
+For my earlier software-engineering, public-sector and consultancy work, see [Phil Davies' professional website](https://phildavies.co.uk/) once the separate site has launched.
+
 # Project highlights
 
 ## Amiga O/S
